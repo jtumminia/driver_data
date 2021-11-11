@@ -1,4 +1,4 @@
-Driver_ID,Distance_Feature,Speeding_Feature
+
 3423311935,71.24,28
 3423313212,52.53,25
 3423313724,64.54,27
